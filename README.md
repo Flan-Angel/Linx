@@ -6,6 +6,8 @@ GITHUB REPOS
 
 -[Awesome](https://github.com/sindresorhus/awesome) - List of all "Awesome" github reops
 
+-[Awesome-OSINT](https://github.com/jivoi/awesome-osint)
+
 -[Build Your Own _](https://github.com/codecrafters-io/build-your-own-x) - Build your own
 
 -[Algorithms](https://github.com/thealgorithms) - Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language
